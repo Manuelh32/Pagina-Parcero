@@ -1,0 +1,61 @@
+body{
+    background-color: bisque;
+}
+
+#titulo{
+    color:#36fd0a;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+h2{
+    color:blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.parrafo{
+    color:firebrick;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
+#integrantes{
+    color:darkmagenta;
+    text-align: center;
+}
+
+li{
+    background-color: #36fd0a;
+    text-align: center;
+}
+
+.amarillo{
+    color:yellow;
+}
+
+.azul{
+    color:blue;
+}
+
+.rojo{
+    color:red;
+}
+
+#formulario{
+    color: coral;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#casilla{
+    border-color: blueviolet;
+    background-color: chartreuse;
+}
+
+#enviar{
+    border-color: blue;
+    background-color: bisque;
+    color: aqua;
+}
+
